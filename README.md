@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bibek Shrestha</h1>
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
-
-
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwjWtLPv5bWAAxWEtGMGHfYrBU8QMygAegUIARCbAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=animated%20coding%20gif&ved=2ahUKEwjWtLPv5bWAAxWEtGMGHfYrBU8QMygAegUIARCbAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek701&label=Profile%20views&color=0e75b6&style=flat" alt="bibek701" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **deferent project of open source**
 
